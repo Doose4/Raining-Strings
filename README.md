@@ -8,11 +8,6 @@ Clone repository
 Load Main.cpp in visual studio.
 Click run button.
 
-Run Test:
-Uncomment driver.
-run program.
-Comment out driver.
-
 Run Code:
 run code 
 Type in a business name.

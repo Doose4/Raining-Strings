@@ -4,10 +4,11 @@
 #include <string>
 using namespace std;
 
+vector <string> stores{};
+
 int main() {
 	char yesno='Y';
 	string str;
-	vector <string> stores{};
 
 	cout << "\t\tWelcome to the Business Sorting Program!\n\n";
 
